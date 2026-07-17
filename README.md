@@ -57,3 +57,37 @@ Tecnólogo en Ingeniería de Sistemas, actualmente en formación como Desarrolla
 ## Repositorio
 
 Este proyecto fue desarrollado con fines académicos como práctica de HTML5.
+
+Portafolio Web
+Descripción
+
+Este proyecto corresponde al desarrollo de un portafolio web personal creado como parte del proceso de aprendizaje en Desarrollo Web. Su objetivo es presentar información personal, habilidades, proyectos y medios de contacto mediante una estructura semántica y un diseño responsivo.
+
+Tecnologías utilizadas
+HTML5
+CSS3
+Git
+GitHub
+Características
+Estructura semántica.
+Navegación entre páginas.
+Diseño responsivo.
+Estilos personalizados con CSS.
+Organización de archivos y recursos.
+Autor
+
+mi-sitio-personal/
+│
+├── index.html
+├── pages/
+│   ├── sobre-mi.html
+│   ├── proyectos.html
+│   ├── habilidades.html
+│   └── contacto.html
+├── styles/
+│  ├── styles.css
+├── img/
+└── README.md
+
+Milton Gálvez
+Tecnólogo en Sistemas en formación como Desarrollador Full Stack.

@@ -5,7 +5,7 @@
 Este proyecto corresponde al desarrollo de un sitio web personal realizado como práctica del módulo de HTML5.
 
 El objetivo es aplicar la estructura semántica de HTML utilizando las principales etiquetas semánticas, una correcta jerarquía de encabezados y navegación entre diferentes páginas.
-
+ 
 ## Estructura del proyecto
 
 ```

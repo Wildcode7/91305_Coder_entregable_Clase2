@@ -126,7 +126,7 @@ main{
 h3 {
     font-size: 1.2rem;
     font-weight: 600;
-    color: var( color:#1565c0);
+    color: var(--color-secundario);
     margin-bottom: 10px;
     text-align: center;
 }
@@ -150,7 +150,7 @@ section{
 p{
     text-align: center;
     text-justify: inter-word;
-    font-color: var(--color-texto);
+    color: var(--color-texto);
 }
 
 article {
